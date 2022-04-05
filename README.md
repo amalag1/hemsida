@@ -1,5 +1,5 @@
 # hemsida
-<!DOCTYPE html> <html> <head>
+<!DOCTYPE html> <lang> <head>
 
 <title>Exempel 1 navigation bar</title>
 
