@@ -61,7 +61,7 @@ magna cursus in. Vestibulum eu consectetur magna.
 
 <p>
   
-  <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="70px" width="70px">
+  <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="500px" width="500px">
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a augue id
 
@@ -79,7 +79,7 @@ magna cursus in. Vestibulum eu consectetur magna.
 
 </p>
   
-  <img src= "christian-holzinger-noqV_-OsYKg-unsplash (1).jpg" alt="T" heigt="70px" width="70px">
+  <img src= "christian-holzinger-noqV_-OsYKg-unsplash (1).jpg" alt="T" heigt="500px" width="500px">
 
 </div><!--leftcol slutar-->
 
