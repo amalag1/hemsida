@@ -79,7 +79,7 @@ magna cursus in. Vestibulum eu consectetur magna.
 
 </p>
   
-  <img src= "christian-holzinger-noqV_-OsYKg-unsplash (1).jpg" alt="T" heigt="500px" width="500px">
+  <img src= "jeanie-de-klerk-PAcT-amBgr4-unsplash(1).jpg" alt="T" heigt="500px" width="500px">
 
 </div><!--leftcol slutar-->
 
