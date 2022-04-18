@@ -1,5 +1,5 @@
 # hemsida
-<!DOCTYPE html> <lang> <head>
+<!DOCTYPE html> <html> <head>
 
 <title>Exempel 1 navigation bar</title>
 
@@ -43,23 +43,43 @@
 
 <p>
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id erat
 
+et elit blandit lobortis a a neque. Fusce lacus nisi, vulputate quis vulputate
+
+vel, aliquam vitae libero. Sed congue ligula quis turpis tincidunt ut
+
+ultrices ante feugiat. Sed semper tortor fermentum ligula fringilla tristique.
+
+Mauris lacinia venenatis commodo. Curabitur scelerisque pharetra facilisis.
+
+Donec et iaculis nunc. Curabitur rhoncus iaculis diam, rutrum faucibus
+
+magna cursus in. Vestibulum eu consectetur magna.
 
 </p>
 
 <p>
   
-  <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="500px" width="500px">
+  <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="70px" width="70px">
 
-  Den genomsnittliga hunden lever i 10 till 14 år. I allmänhet lever mindre raser längre än större raser. 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a augue id
+
+  leo scelerisque hendrerit non non dui. Integer condimentum quam sed tellus
   
-  Världens äldsta ras, saluki, härstammar från Egypten för flera tusen år sedan.   
+  ultricies a aliquam elit ornare. Curabitur ac libero et sapien feugiat
   
-  Enligt en studie gjord av Cornell University, tämjdes hundar redan för mellan 9 000 och 34 000 år sedan. 
+  porta vitae sed lorem. In faucibus imperdiet neque, sit amet accumsan
+  
+  ante elementum tincidunt. Proin tincidunt massa at leo tincidunt consectetur.
+  
+  Sed consectetur ornare libero a sagittis. Pellentesque aliquet ipsum ante.
+  
+  Sed eget tellus dui, eget sodales lectus. 
 
 </p>
   
-  <img src= "jeanie-de-klerk-PAcT-amBgr4-unsplash(1).jpg" alt="T" heigt="400px" width="500px">
+  <img src= "christian-holzinger-noqV_-OsYKg-unsplash (1).jpg" alt="T" heigt="70px" width="70px">
 
 </div><!--leftcol slutar-->
 
@@ -67,22 +87,37 @@
 
 <p>
 
-  Katten är skicklig på att fånga möss, sorkar och småfåglar. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id erat
 
-  En katt kan springa 50 km/h på korta sträckor och hoppa två meter rakt upp. 
+et elit blandit lobortis a a neque. Fusce lacus nisi, vulputate quis vulputate
 
-  Jaktinstinkten har den med sig sen 10 000 år från falbkatten, 
-  
-  den vildkatt i Orienten som var tamkattens förfader och förmoder. 
+vel, aliquam vitae libero. Sed congue ligula quis turpis tincidunt ut
 
-  Katter är anpassade för smygjakt.
+ultrices ante feugiat. Sed semper tortor fermentum ligula fringilla tristique.
+
+Mauris lacinia venenatis commodo. Curabitur scelerisque pharetra facilisis.
+
+Donec et iaculis nunc. Curabitur rhoncus iaculis diam, rutrum faucibus
+
+magna cursus in. Vestibulum eu consectetur magna.
 
 </p>
 
 <p><img src="img/andreas.jpg" height="300" width="201" alt="Foto" />
 
- 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a augue id
 
+leo scelerisque hendrerit non non dui. Integer condimentum quam sed tellus
+
+ultricies a aliquam elit ornare. Curabitur ac libero et sapien feugiat
+
+porta vitae sed lorem. In faucibus imperdiet neque, sit amet accumsan
+
+ante elementum tincidunt. Proin tincidunt massa at leo tincidunt consectetur.
+
+Sed consectetur ornare libero a sagittis. Pellentesque aliquet ipsum ante.
+
+Sed eget tellus dui, eget sodales lectus.
 
 </p>
 
